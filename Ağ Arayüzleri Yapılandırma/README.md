@@ -22,4 +22,5 @@
 - Address or name of remote host []? 192.168.1.100
 - Destination filename [Router-confg]? backup-07032022
 
-
+# Ping Testi
+![Uygulama1-ping](https://user-images.githubusercontent.com/86951716/157044932-b984793c-8715-4c15-94f4-5f2674e92d43.png)
