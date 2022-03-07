@@ -1,3 +1,8 @@
+# Ağ Topolojisi 
+
+![photo1](https://user-images.githubusercontent.com/86951716/157043924-8e860c86-1132-4748-b831-8fac137dea6d.png)
+
+
 # Router Komutları 
 
 - Router(config)# interface f0/0
@@ -15,3 +20,5 @@
 - Router#copy running-config tftp: 
 - Address or name of remote host []? 192.168.1.100
 - Destination filename [Router-confg]? backup-07032022
+
+
