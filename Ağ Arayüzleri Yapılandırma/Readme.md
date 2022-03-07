@@ -1,4 +1,4 @@
-Router Komutları 
+# Router Komutları 
 
 Router(config)# interface f0/0
 Router(config-if)#ip address 192.168.1.1 255.255.255.0
