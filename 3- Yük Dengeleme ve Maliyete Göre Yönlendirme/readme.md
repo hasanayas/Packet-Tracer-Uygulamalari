@@ -1,10 +1,12 @@
 <br/>
+
 # Ağ Topolojisi
 
 
 ![Ağ Topolojisi-2](https://user-images.githubusercontent.com/86951716/158167413-e9c6ad10-9ce3-4468-a252-ee73ff3429b1.png)
 
 <br/>
+
 # Yeni Genel Yayın Bölgesi Oluşturulduktan Sonra Router Komutları
 
 - C(config)#interface e0/0/0
@@ -22,6 +24,7 @@ C(config)#ip route 192.168.1.0 255.255.255.0 192.168.100.9 <br/>
 C(config)#ip route 192.168.2.0 255.255.255.0 192.168.100.9 <br/>
 
 <br/>
+
 # Maliyete Göre Yönlendirme Router Komutları 
 
 - A(config)#no ip route 192.168.2.0 255.255.255.0 192.168.100.6 
