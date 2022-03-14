@@ -1,5 +1,6 @@
 # Ağ Topolojisi
 <br/>
+
 ![Ağ Topolojisi-2](https://user-images.githubusercontent.com/86951716/158167413-e9c6ad10-9ce3-4468-a252-ee73ff3429b1.png)
 
 # Yeni Genel Yayın Bölgesi Oluşturulduktan Sonra Router Komutları
