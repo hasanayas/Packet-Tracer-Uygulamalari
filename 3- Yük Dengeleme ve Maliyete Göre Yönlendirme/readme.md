@@ -4,6 +4,7 @@
 # Yeni Genel Yayın Bölgesi Oluşturulduktan Sonra Router Komutları
 C(config-if)#ip add 192.168.100.10 255.255.255.252
 B(config-if)#ip add 192.168.100.9 255.255.255.252
+<div></div>
 
 A(config)#ip route 192.168.2.0 255.255.255.0 192.168.100.6
 A(config)#ip route 192.168.3.0 255.255.255.0 192.168.100.2
